@@ -19,13 +19,17 @@ h2 {
 }
 
 th {
-    background-color: brown;
+    background-color: rgb(223, 103, 103);
 }
 
 tr:nth-child(even){
-    background-color: aqua;
+    background-color: rgb(48, 97, 97);
+}
+
+tr:nth-child(odd){
+    background-color: rgb(37, 134, 42);
 }
 
 tr:hover{
-    color: red;
+    color: rgb(255, 255, 255);
 }
