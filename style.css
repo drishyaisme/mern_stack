@@ -1,0 +1,44 @@
+:root{
+    --main-color:  #1E293B;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+li{
+    list-style: none;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.header {
+    background-color: var(--main-color);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px;
+    align-items: center;
+}
+
+.nav-bar ul{
+    display: flex;
+}
+
+.showcase {
+    background-color: var(--main-color);
+    color: white;
+    display: flex;
+}
+
+.show-img img{
+    width: 100%;
+    object-fit: cover;
+    border-radius: ;
+}
