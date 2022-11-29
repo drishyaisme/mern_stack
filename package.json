@@ -1,0 +1,23 @@
+{
+  "name": "mern-stack-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drishyaisme/mern_stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drishyaisme/mern_stack/issues"
+  },
+  "homepage": "https://github.com/drishyaisme/mern_stack#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
